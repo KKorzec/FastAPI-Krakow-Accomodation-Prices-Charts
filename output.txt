@@ -1,0 +1,1030 @@
+----- JSON 1 -----
+{
+    "@context": "https://schema.org",
+    "@graph": [
+        {
+            "@type": "WebPage",
+            "url": "https://www.otodom.pl/pl/wyniki/wynajem/kawalerka/malopolskie/krakow/krakow/krakow",
+            "isPartOf": {
+                "@type": "WebSite",
+                "name": "Otodom",
+                "description": "Najpopularniejszy serwis nieruchomościowy. Sprzedaż i wynajem w kategoriach mieszkania, domy, działki, lokale użytkowe. Oferty od deweloperów, biur nieruchomości oraz bezpośrednie. Znajdź wymarzoną nieruchomość razem z nami.",
+                "url": "https://www.otodom.pl",
+                "inLanguage": "pl"
+            },
+            "about": {
+                "@type": "Organization",
+                "foundingDate": "2006",
+                "logo": "https://statics.otodom.pl/fp_statics/images/logo/otodom_logo_2021_white.svg",
+                "brand": "Grupa OLX sp. z o. o.",
+                "alternateName": [
+                    "oto dom",
+                    "otodom.pl",
+                    "otodom olx",
+                    "otodom warszawa",
+                    "otodom wrocław",
+                    "otodom pl",
+                    "otodon",
+                    "www.otodom.pl",
+                    "otodo",
+                    "otodom domy",
+                    "otodom mieszkania"
+                ],
+                "sameAs": [
+                    "https://pl.wikipedia.org/wiki/Otodom",
+                    "https://www.facebook.com/Otodom/",
+                    "https://www.instagram.com/otodom/",
+                    "https://twitter.com/otodom",
+                    "https://www.youtube.com/@otodom",
+                    "https://www.linkedin.com/company/otodom",
+                    "https://play.google.com/store/apps/details"
+                ],
+                "address": {
+                    "@type": "PostalAddress",
+                    "addressLocality": "Poznań",
+                    "postalCode": "61-872",
+                    "addressRegion": "Poznań/Pojezierze Wielkopolskie",
+                    "streetAddress": "ul. Królowej Jadwigi 43",
+                    "addressCountry": {
+                        "@type": "Country",
+                        "name": "Polska"
+                    }
+                },
+                "contactPoint": {
+                    "@type": "ContactPoint",
+                    "telephone": "+48 61 880 3222",
+                    "areaServed": "Polska",
+                    "contactType": "customer service",
+                    "availableLanguage": "Polski"
+                }
+            },
+            "name": "Kawalerki na wynajem: Kraków, Małopolskie | Otodom.pl",
+            "description": "Zobacz 440 ogłoszeń o kawalerki na wynajem w Kraków, małopolskie. Sprawdź na Otodom.pl!",
+            "primaryImageOfPage": {
+                "@type": "ImageObject",
+                "inLanguage": "pl",
+                "url": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6Imd3MGhuNDkxcXB6OTMtQVBMIiwidyI6W3siZm4iOiJlbnZmcXFlMWF5NGsxLUFQTCIsInMiOiIxNCIsInAiOiIxMCwtMTAiLCJhIjoiMCJ9XX0.NEWKwv4nG3QJMWqxuMF33jjKjS0-nE52rnTIkMBTteY/image;s=655x491;q=80",
+                "width": "280",
+                "height": "208"
+            }
+        },
+        {
+            "@type": "WebSite",
+            "url": "https://www.otodom.pl/pl/wyniki/wynajem/kawalerka/malopolskie/krakow/krakow/krakow",
+            "potentialAction": {
+                "@type": "SearchAction",
+                "query-input": "required name=search_term_string",
+                "target": "https://www.otodom.pl/pl/wyniki/wynajem/kawalerka/malopolskie/krakow/krakow/krakow?description={search_term_string}"
+            }
+        },
+        {
+            "@type": "Product",
+            "additionalType": "RealEstateListing",
+            "name": "Kawalerki na wynajem: Kraków, Małopolskie | Otodom.pl",
+            "image": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6Imd3MGhuNDkxcXB6OTMtQVBMIiwidyI6W3siZm4iOiJlbnZmcXFlMWF5NGsxLUFQTCIsInMiOiIxNCIsInAiOiIxMCwtMTAiLCJhIjoiMCJ9XX0.NEWKwv4nG3QJMWqxuMF33jjKjS0-nE52rnTIkMBTteY/image;s=655x491;q=80",
+            "description": "Zobacz 440 ogłoszeń o kawalerki na wynajem w Kraków, małopolskie. Sprawdź na Otodom.pl!",
+            "url": "https://www.otodom.pl/pl/wyniki/wynajem/kawalerka/malopolskie/krakow/krakow/krakow",
+            "offers": {
+                "@type": "AggregateOffer",
+                "businessFunction": "RENT",
+                "highPrice": "2600",
+                "lowPrice": "900",
+                "priceCurrency": "PLN",
+                "offerCount": "36",
+                "offers": [
+                    {
+                        "@type": "Offer",
+                        "availability": "InStock",
+                        "image": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6Imd3MGhuNDkxcXB6OTMtQVBMIiwidyI6W3siZm4iOiJlbnZmcXFlMWF5NGsxLUFQTCIsInMiOiIxNCIsInAiOiIxMCwtMTAiLCJhIjoiMCJ9XX0.NEWKwv4nG3QJMWqxuMF33jjKjS0-nE52rnTIkMBTteY/image;s=655x491;q=80",
+                        "price": 2150,
+                        "priceCurrency": "PLN",
+                        "name": "Bronowice - kawalerka z oddzielną kuchnią - Górna",
+                        "url": "https://www.otodom.pl/pl/oferta/bronowice-kawalerka-z-oddzielna-kuchnia-gorna-ID42hyu",
+                        "itemOffered": {
+                            "@type": "Accommodation",
+                            "description": "Zobacz to 1 pokojowe mieszkanie na wynajem w miejscowości Kraków, Prądnik Biały, Bronowice Wielkie, za cenę 2 150 zł/miesiąc. To mieszkanie na wynajem  na parter piętrze ma 38,70 m² powierzchni użytkowej i 38,70 m² powierzchni całkowitej. Biuro nieruchomości Plan A - Nieruchomości jako najważniejsze zalety mieszkania wymienia: piwnica, oddzielna kuchnia, telewizja kablowa. Otodom 59649486",
+                            "address": {
+                                "@type": "PostalAddress",
+                                "addressCountry": "Polska",
+                                "addressLocality": "Kraków",
+                                "addressRegion": "małopolskie",
+                                "streetAddress": "ul. Górna"
+                            },
+                            "numberOfRooms": 1,
+                            "floorSize": {
+                                "@type": "QuantitativeValue",
+                                "value": 38.7,
+                                "unitCode": "MTK"
+                            }
+                        }
+                    },
+                    {
+                        "@type": "Offer",
+                        "availability": "InStock",
+                        "image": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6IjM1bXl5ZGM2cm9nZC1BUEwiLCJ3IjpbeyJmbiI6ImVudmZxcWUxYXk0azEtQVBMIiwicyI6IjE0IiwicCI6IjEwLC0xMCIsImEiOiIwIn1dfQ.LpG3_mKW4bHZ4-WMtZOPY_ms20HcBlhMOY8u1HD-swE/image;s=655x491;q=80",
+                        "price": 2000,
+                        "priceCurrency": "PLN",
+                        "name": "Jednopokojowe po remoncie! ul. Nad Sudołem",
+                        "url": "https://www.otodom.pl/pl/oferta/jednopokojowe-po-remoncie-ul-nad-sudolem-ID4mmNn",
+                        "itemOffered": {
+                            "@type": "Accommodation",
+                            "description": "Zobacz to 1 pokojowe mieszkanie na wynajem w miejscowości Kraków, Prądnik Biały, za cenę 2 000 zł/miesiąc. To mieszkanie na wynajem  na 3 piętrze ma 28 m² powierzchni użytkowej i 28 m² powierzchni całkowitej. Biuro nieruchomości Plan A - Nieruchomości jako najważniejsze zalety mieszkania wymienia: piwnica, garaż/miejsce parkingowe, oddzielna kuchnia. Otodom 64436189",
+                            "address": {
+                                "@type": "PostalAddress",
+                                "addressCountry": "Polska",
+                                "addressLocality": "Kraków",
+                                "addressRegion": "małopolskie",
+                                "streetAddress": "ul. Nad Sudołem"
+                            },
+                            "numberOfRooms": 1,
+                            "floorSize": {
+                                "@type": "QuantitativeValue",
+                                "value": 28,
+                                "unitCode": "MTK"
+                            }
+                        }
+                    },
+                    {
+                        "@type": "Offer",
+                        "availability": "InStock",
+                        "image": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6InYzZzRlcmwxeGh3NS1BUEwiLCJ3IjpbeyJmbiI6ImVudmZxcWUxYXk0azEtQVBMIiwicyI6IjE0IiwicCI6IjEwLC0xMCIsImEiOiIwIn1dfQ.ghjFToJg0E27z0rDBPJCoGvsNjR6k8U2G4NrLKOhyRw/image;s=655x491;q=80",
+                        "price": 2400,
+                        "priceCurrency": "PLN",
+                        "name": "22m z tarasem",
+                        "url": "https://www.otodom.pl/pl/oferta/22m-z-tarasem-ID4lBwk",
+                        "itemOffered": {
+                            "@type": "Accommodation",
+                            "description": "Zobacz to 1 pokojowe mieszkanie na wynajem w miejscowości Kraków, Bronowice, za cenę 2 400 zł/miesiąc. To mieszkanie na wynajem  na parter piętrze ma 22 m² powierzchni użytkowej i 22 m² powierzchni całkowitej. Właściciel jako najważniejsze zalety mieszkania wymienia: taras, lodówka, meble. Otodom 64254402",
+                            "address": {
+                                "@type": "PostalAddress",
+                                "addressCountry": "Polska",
+                                "addressLocality": "Kraków",
+                                "addressRegion": "małopolskie",
+                                "streetAddress": "ul. Zarzecze"
+                            },
+                            "numberOfRooms": 1,
+                            "floorSize": {
+                                "@type": "QuantitativeValue",
+                                "value": 22,
+                                "unitCode": "MTK"
+                            }
+                        }
+                    },
+                    {
+                        "@type": "Offer",
+                        "availability": "InStock",
+                        "image": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6IjI5ZDY5ajJ1c3Y5ZzMtQVBMIiwidyI6W3siZm4iOiJlbnZmcXFlMWF5NGsxLUFQTCIsInMiOiIxNCIsInAiOiIxMCwtMTAiLCJhIjoiMCJ9XX0.L42i5iJ9ZMptrtOImBV7yMU7n2Eo6j_ODREgTrGkom0/image;s=655x491;q=80",
+                        "price": 2500,
+                        "priceCurrency": "PLN",
+                        "name": "Wynajmę kawalerkę ul. Klemensiewicza krakow",
+                        "url": "https://www.otodom.pl/pl/oferta/wynajme-kawalerke-ul-klemensiewicza-krakow-ID4mhQm",
+                        "itemOffered": {
+                            "@type": "Accommodation",
+                            "description": "Zobacz to 1 pokojowe mieszkanie na wynajem w miejscowości Kraków, Śródmieście, za cenę 2 500 zł/miesiąc. To mieszkanie na wynajem  na 5 piętrze ma 18 m² powierzchni użytkowej i 18 m² powierzchni całkowitej. Właściciel jako najważniejsze zalety mieszkania wymienia: balkon, winda, tylko dla niepalących. Otodom 64417154",
+                            "address": {
+                                "@type": "PostalAddress",
+                                "addressCountry": "Polska",
+                                "addressLocality": "Kraków",
+                                "addressRegion": "małopolskie",
+                                "streetAddress": "ul. Zenona Klemensiewicza"
+                            },
+                            "numberOfRooms": 1,
+                            "floorSize": {
+                                "@type": "QuantitativeValue",
+                                "value": 18,
+                                "unitCode": "MTK"
+                            }
+                        }
+                    },
+                    {
+                        "@type": "Offer",
+                        "availability": "InStock",
+                        "image": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6Ijh6ODJuMmh0dXU4NDEtQVBMIiwidyI6W3siZm4iOiJlbnZmcXFlMWF5NGsxLUFQTCIsInMiOiIxNCIsInAiOiIxMCwtMTAiLCJhIjoiMCJ9XX0.ta-mVmyLLRpKTQmzZhVNKinlJt5cO8LI877a_M3LPQM/image;s=655x491;q=80",
+                        "price": 1900,
+                        "priceCurrency": "PLN",
+                        "name": "Mieszkanie do wynajęcia ul. Smocza",
+                        "url": "https://www.otodom.pl/pl/oferta/mieszkanie-do-wynajecia-ul-smocza-ID4m70i",
+                        "itemOffered": {
+                            "@type": "Accommodation",
+                            "description": "Zobacz to 1 pokojowe mieszkanie na wynajem w miejscowości Kraków, Stare Miasto, za cenę 1 900 zł/miesiąc. To mieszkanie na wynajem  na parter piętrze ma 28 m² powierzchni użytkowej i 28 m² powierzchni całkowitej. Biuro nieruchomości Grupa Esto jako najważniejsze zalety mieszkania wymienia: lodówka, meble, kuchenka. Otodom 64375486",
+                            "address": {
+                                "@type": "PostalAddress",
+                                "addressCountry": "Polska",
+                                "addressLocality": "Kraków",
+                                "addressRegion": "małopolskie",
+                                "streetAddress": "ul. Smocza"
+                            },
+                            "numberOfRooms": 1,
+                            "floorSize": {
+                                "@type": "QuantitativeValue",
+                                "value": 28,
+                                "unitCode": "MTK"
+                            }
+                        }
+                    },
+                    {
+                        "@type": "Offer",
+                        "availability": "InStock",
+                        "image": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6Impibjk0MmdldmE1MS1BUEwiLCJ3IjpbeyJmbiI6ImVudmZxcWUxYXk0azEtQVBMIiwicyI6IjE0IiwicCI6IjEwLC0xMCIsImEiOiIwIn1dfQ.MvX5dDVqcgnkxhcEbrexeMXflXN-XFOMvC77rtiBBaI/image;s=655x491;q=80",
+                        "price": 2200,
+                        "priceCurrency": "PLN",
+                        "name": "Kawalerka do wynajęcia na okres od 08.07 do 30.09",
+                        "url": "https://www.otodom.pl/pl/oferta/kawalerka-do-wynajecia-na-okres-od-08-07-do-30-09-ID4m8LQ",
+                        "itemOffered": {
+                            "@type": "Accommodation",
+                            "description": "Zobacz to 1 pokojowe mieszkanie na wynajem w miejscowości ul. Seweryna Goszczyńskiego, Kraków, za cenę 2 200 zł/miesiąc. To mieszkanie na wynajem  na 2 piętrze ma 18,50 m² powierzchni użytkowej i 18,50 m² powierzchni całkowitej. Właściciel jako najważniejsze zalety mieszkania wymienia: balkon, tylko dla niepalących, internet. Otodom 64382278",
+                            "address": {
+                                "@type": "PostalAddress",
+                                "addressCountry": "Polska",
+                                "addressLocality": "Kraków",
+                                "addressRegion": "małopolskie",
+                                "streetAddress": "ul. Seweryna Goszczyńskiego"
+                            },
+                            "numberOfRooms": 1,
+                            "floorSize": {
+                                "@type": "QuantitativeValue",
+                                "value": 18.5,
+                                "unitCode": "MTK"
+                            }
+                        }
+                    },
+                    {
+                        "@type": "Offer",
+                        "availability": "InStock",
+                        "image": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6IjM0NHY5aXdrZTBjYzMtQVBMIiwidyI6W3siZm4iOiJlbnZmcXFlMWF5NGsxLUFQTCIsInMiOiIxNCIsInAiOiIxMCwtMTAiLCJhIjoiMCJ9XX0.p4UUbEnRGjnfh9BnEoKgBkpGC-7zc0JdQrZqH3Fg6I4/image;s=655x491;q=80",
+                        "price": 2500,
+                        "priceCurrency": "PLN",
+                        "name": "Kawalerka W Centrum Krakowa !",
+                        "url": "https://www.otodom.pl/pl/oferta/kawalerka-w-centrum-krakowa-ID4meH0",
+                        "itemOffered": {
+                            "@type": "Accommodation",
+                            "description": "Zobacz to 1 pokojowe mieszkanie na wynajem w miejscowości Kraków, Krowodrza, za cenę 2 500 zł/miesiąc. To mieszkanie na wynajem  na 4 piętrze ma 34 m² powierzchni użytkowej i 34 m² powierzchni całkowitej. Biuro nieruchomości BRACIA SADURSCY NIERUCHOMOŚCI jako najważniejsze zalety mieszkania wymienia: balkon, winda, oddzielna kuchnia. Otodom 64405042",
+                            "address": {
+                                "@type": "PostalAddress",
+                                "addressCountry": "Polska",
+                                "addressLocality": "Kraków",
+                                "addressRegion": "małopolskie",
+                                "streetAddress": "al. Kijowska"
+                            },
+                            "numberOfRooms": 1,
+                            "floorSize": {
+                                "@type": "QuantitativeValue",
+                                "value": 34,
+                                "unitCode": "MTK"
+                            }
+                        }
+                    },
+                    {
+                        "@type": "Offer",
+                        "availability": "InStock",
+                        "image": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6InBxdWc2MGV3amQ5dTItQVBMIiwidyI6W3siZm4iOiJlbnZmcXFlMWF5NGsxLUFQTCIsInMiOiIxNCIsInAiOiIxMCwtMTAiLCJhIjoiMCJ9XX0.XEprEBhw00Dx-rI0WsHj0saemZ9kYC-UtDL0iODeZnc/image;s=655x491;q=80",
+                        "price": 1500,
+                        "priceCurrency": "PLN",
+                        "name": "Kawalerka od właściciela | R. Mogilskie | UEK | Kr",
+                        "url": "https://www.otodom.pl/pl/oferta/kawalerka-od-wlasciciela-r-mogilskie-uek-kr-ID4iT83",
+                        "itemOffered": {
+                            "@type": "Accommodation",
+                            "description": "Zobacz to 1 pokojowe mieszkanie na wynajem w miejscowości Kraków, Grzegórzki, za cenę 1 500 zł/miesiąc. To mieszkanie na wynajem  na 3 piętrze ma 16 m² powierzchni użytkowej i 16 m² powierzchni całkowitej. Właściciel jako najważniejsze zalety mieszkania wymienia: tylko dla niepalących, domofon / wideofon, lodówka. Otodom 63607167",
+                            "address": {
+                                "@type": "PostalAddress",
+                                "addressCountry": "Polska",
+                                "addressLocality": "Kraków",
+                                "addressRegion": "małopolskie",
+                                "streetAddress": "ul. Mogilska"
+                            },
+                            "numberOfRooms": 1,
+                            "floorSize": {
+                                "@type": "QuantitativeValue",
+                                "value": 16,
+                                "unitCode": "MTK"
+                            }
+                        }
+                    },
+                    {
+                        "@type": "Offer",
+                        "availability": "InStock",
+                        "image": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6Im9yYmZzbnhrc3huOS1BUEwiLCJ3IjpbeyJmbiI6ImVudmZxcWUxYXk0azEtQVBMIiwicyI6IjE0IiwicCI6IjEwLC0xMCIsImEiOiIwIn1dfQ.CxK0ZRNr_GDkR20n9-ph73Knp9hArVufb9CMGaerOoU/image;s=655x491;q=80",
+                        "price": 2250,
+                        "priceCurrency": "PLN",
+                        "name": "Kawalerka do wynajęcia Ruczaj Federowicza od 1.08",
+                        "url": "https://www.otodom.pl/pl/oferta/kawalerka-do-wynajecia-ruczaj-federowicza-od-1-08-ID4m8KW",
+                        "itemOffered": {
+                            "@type": "Accommodation",
+                            "description": "Zobacz to 1 pokojowe mieszkanie na wynajem w miejscowości Kraków, Dębniki, za cenę 2 250 zł/miesiąc. To mieszkanie na wynajem  na 2 piętrze ma 28 m² powierzchni użytkowej i 28 m² powierzchni całkowitej. Właściciel jako najważniejsze zalety mieszkania wymienia: balkon, winda, tylko dla niepalących. Otodom 64382221",
+                            "address": {
+                                "@type": "PostalAddress",
+                                "addressCountry": "Polska",
+                                "addressLocality": "Kraków",
+                                "addressRegion": "małopolskie"
+                            },
+                            "numberOfRooms": 1,
+                            "floorSize": {
+                                "@type": "QuantitativeValue",
+                                "value": 28,
+                                "unitCode": "MTK"
+                            }
+                        }
+                    },
+                    {
+                        "@type": "Offer",
+                        "availability": "InStock",
+                        "image": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6Inp0Y3M5MDNpeTd3di1BUEwiLCJ3IjpbeyJmbiI6ImVudmZxcWUxYXk0azEtQVBMIiwicyI6IjE0IiwicCI6IjEwLC0xMCIsImEiOiIwIn1dfQ.HFr9OjwLvpLNsYOZ1fptLGvmc_i5nHtG6zImF3EVqSM/image;s=655x491;q=80",
+                        "price": 2200,
+                        "priceCurrency": "PLN",
+                        "name": "DO NEGOCJACJI - Z windą i miejskim ogrzewaniem!",
+                        "url": "https://www.otodom.pl/pl/oferta/do-negocjacji-z-winda-i-miejskim-ogrzewaniem-ID4lpJl",
+                        "itemOffered": {
+                            "@type": "Accommodation",
+                            "description": "Zobacz to 1 pokojowe mieszkanie na wynajem w miejscowości Kraków, Krowodrza, za cenę 2 200 zł/miesiąc. To mieszkanie na wynajem  na 1 piętrze ma 24 m² powierzchni użytkowej i 24 m² powierzchni całkowitej. Biuro nieruchomości TECNOCASA Oddział XV jako najważniejsze zalety mieszkania wymienia: winda, telewizja kablowa, internet. Otodom 64209143",
+                            "address": {
+                                "@type": "PostalAddress",
+                                "addressCountry": "Polska",
+                                "addressLocality": "Kraków",
+                                "addressRegion": "małopolskie"
+                            },
+                            "numberOfRooms": 1,
+                            "floorSize": {
+                                "@type": "QuantitativeValue",
+                                "value": 24,
+                                "unitCode": "MTK"
+                            }
+                        }
+                    },
+                    {
+                        "@type": "Offer",
+                        "availability": "InStock",
+                        "image": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6ImVoOXcyZzRicjhncjEtQVBMIiwidyI6W3siZm4iOiJlbnZmcXFlMWF5NGsxLUFQTCIsInMiOiIxNCIsInAiOiIxMCwtMTAiLCJhIjoiMCJ9XX0.lCG_hvJhdSygI-6BIFvqB6axDlt4p3dDwO9KLwsWtV4/image;s=655x491;q=80",
+                        "price": 2200,
+                        "priceCurrency": "PLN",
+                        "name": "Kraków- Krowodrza- Juliusza Lea",
+                        "url": "https://www.otodom.pl/pl/oferta/krakow-krowodrza-juliusza-lea-ID4mmfp",
+                        "itemOffered": {
+                            "@type": "Accommodation",
+                            "description": "Zobacz to 1 pokojowe mieszkanie na wynajem w miejscowości Kraków, Krowodrza, Stara Krowodrza, za cenę 2 200 zł/miesiąc. To mieszkanie na wynajem  na 3 piętrze ma 30 m² powierzchni użytkowej i 30 m² powierzchni całkowitej. Biuro nieruchomości TECNOCASA Oddział XV jako najważniejsze zalety mieszkania wymienia: winda, telewizja kablowa, internet. Otodom 64434083",
+                            "address": {
+                                "@type": "PostalAddress",
+                                "addressCountry": "Polska",
+                                "addressLocality": "Kraków",
+                                "addressRegion": "małopolskie"
+                            },
+                            "numberOfRooms": 1,
+                            "floorSize": {
+                                "@type": "QuantitativeValue",
+                                "value": 30,
+                                "unitCode": "MTK"
+                            }
+                        }
+                    },
+                    {
+                        "@type": "Offer",
+                        "availability": "InStock",
+                        "image": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6InR2NTAwdGF0ZXM3ajItQVBMIiwidyI6W3siZm4iOiJlbnZmcXFlMWF5NGsxLUFQTCIsInMiOiIxNCIsInAiOiIxMCwtMTAiLCJhIjoiMCJ9XX0.DWJRilRE2Zb698sxbqMMRwyVUbYm9qxuYNdE3JISFPw/image;s=655x491;q=80",
+                        "price": 2300,
+                        "priceCurrency": "PLN",
+                        "name": "Mieszkanie na wynajem 40m2 Kraków",
+                        "url": "https://www.otodom.pl/pl/oferta/mieszkanie-na-wynajem-40m2-krakow-ID4kcIm",
+                        "itemOffered": {
+                            "@type": "Accommodation",
+                            "description": "Zobacz to 1 pokojowe mieszkanie na wynajem w miejscowości Kraków, Prądnik Czerwony, za cenę 2 300 zł/miesiąc. To mieszkanie na wynajem  ma 40 m² powierzchni użytkowej i 40 m² powierzchni całkowitej. Właściciel jako najważniejsze zalety mieszkania wymienia: , drzwi / okna antywłamaniowe, domofon / wideofon. Otodom 63920782",
+                            "address": {
+                                "@type": "PostalAddress",
+                                "addressCountry": "Polska",
+                                "addressLocality": "Kraków",
+                                "addressRegion": "małopolskie"
+                            },
+                            "numberOfRooms": 1,
+                            "floorSize": {
+                                "@type": "QuantitativeValue",
+                                "value": 40,
+                                "unitCode": "MTK"
+                            }
+                        }
+                    },
+                    {
+                        "@type": "Offer",
+                        "availability": "InStock",
+                        "image": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6InRoNXJ5bGYxbHpnMy1BUEwiLCJ3IjpbeyJmbiI6ImVudmZxcWUxYXk0azEtQVBMIiwicyI6IjE0IiwicCI6IjEwLC0xMCIsImEiOiIwIn1dfQ.K_ndNuro01CLujqbtbz0XtUvTq85dDhqFDiF0n2YJ8E/image;s=655x491;q=80",
+                        "price": 2300,
+                        "priceCurrency": "PLN",
+                        "name": "Duza kawalerka Krakow Stare Miasto Wynajme",
+                        "url": "https://www.otodom.pl/pl/oferta/duza-kawalerka-krakow-stare-miasto-wynajme-ID4jtEj",
+                        "itemOffered": {
+                            "@type": "Accommodation",
+                            "description": "Zobacz to 1 pokojowe mieszkanie na wynajem w miejscowości Kraków, Zwierzyniec, za cenę 2 300 zł/miesiąc. To mieszkanie na wynajem  na 2 piętrze ma 34 m² powierzchni użytkowej i 34 m² powierzchni całkowitej. Właściciel jako najważniejsze zalety mieszkania wymienia: internet, drzwi / okna antywłamaniowe, teren zamknięty. Otodom 63747551",
+                            "address": {
+                                "@type": "PostalAddress",
+                                "addressCountry": "Polska",
+                                "addressLocality": "Kraków",
+                                "addressRegion": "małopolskie",
+                                "streetAddress": "ul. Włóczków"
+                            },
+                            "numberOfRooms": 1,
+                            "floorSize": {
+                                "@type": "QuantitativeValue",
+                                "value": 34,
+                                "unitCode": "MTK"
+                            }
+                        }
+                    },
+                    {
+                        "@type": "Offer",
+                        "availability": "InStock",
+                        "image": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6InoxNzNua2pscjRpdDMtQVBMIiwidyI6W3siZm4iOiJlbnZmcXFlMWF5NGsxLUFQTCIsInMiOiIxNCIsInAiOiIxMCwtMTAiLCJhIjoiMCJ9XX0.56Zr7CYA2N2tYS1Jelsropz6JRvBEFhN6hiKyzOi6ZY/image;s=655x491;q=80",
+                        "price": 1550,
+                        "priceCurrency": "PLN",
+                        "name": "Mieszkanie pod Niepołomicami ! Basen! Ogród!",
+                        "url": "https://www.otodom.pl/pl/oferta/mieszkanie-pod-niepolomicami-basen-ogrod-ID4kEYp",
+                        "itemOffered": {
+                            "@type": "Accommodation",
+                            "description": "Zobacz to 1 pokojowe mieszkanie na wynajem w miejscowości Kraków, małopolskie, za cenę 1 550 zł/miesiąc. To mieszkanie na wynajem  na 1 piętrze ma 27 m² powierzchni użytkowej i 27 m² powierzchni całkowitej. Właściciel jako najważniejsze zalety mieszkania wymienia: balkon, garaż/miejsce parkingowe, ogródek. Otodom 64029409",
+                            "address": {
+                                "@type": "PostalAddress",
+                                "addressCountry": "Polska",
+                                "addressLocality": "Kraków",
+                                "addressRegion": "małopolskie"
+                            },
+                            "numberOfRooms": 1,
+                            "floorSize": {
+                                "@type": "QuantitativeValue",
+                                "value": 27,
+                                "unitCode": "MTK"
+                            }
+                        }
+                    },
+                    {
+                        "@type": "Offer",
+                        "availability": "InStock",
+                        "image": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6ImJteHVveHJ5bTkxcjEtQVBMIiwidyI6W3siZm4iOiJlbnZmcXFlMWF5NGsxLUFQTCIsInMiOiIxNCIsInAiOiIxMCwtMTAiLCJhIjoiMCJ9XX0.Og6yVMlbsyEXtrg8pitlF31N-nuSc8fI9HXGDH_g3MI/image;s=655x491;q=80",
+                        "price": 1500,
+                        "priceCurrency": "PLN",
+                        "name": "Kawalerka, ul. Starowiślna",
+                        "url": "https://www.otodom.pl/pl/oferta/kawalerka-ul-starowislna-ID4lxuq",
+                        "itemOffered": {
+                            "@type": "Accommodation",
+                            "description": "Zobacz to 1 pokojowe mieszkanie na wynajem w miejscowości Kraków, Stare Miasto, za cenę 1 500 zł/miesiąc. To mieszkanie na wynajem  ma 18 m² powierzchni użytkowej i 18 m² powierzchni całkowitej. Otodom 64238970",
+                            "address": {
+                                "@type": "PostalAddress",
+                                "addressCountry": "Polska",
+                                "addressLocality": "Kraków",
+                                "addressRegion": "małopolskie",
+                                "streetAddress": "ul. Starowiślna"
+                            },
+                            "numberOfRooms": 1,
+                            "floorSize": {
+                                "@type": "QuantitativeValue",
+                                "value": 18,
+                                "unitCode": "MTK"
+                            }
+                        }
+                    },
+                    {
+                        "@type": "Offer",
+                        "availability": "InStock",
+                        "image": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6ImZ0azFzNTF0cWxqNTItQVBMIiwidyI6W3siZm4iOiJlbnZmcXFlMWF5NGsxLUFQTCIsInMiOiIxNCIsInAiOiIxMCwtMTAiLCJhIjoiMCJ9XX0.kCrCiNqFtjBbhC30UfKDrpQ0kPHQpq4Qon0BWoeyV5o/image;s=655x491;q=80",
+                        "price": 1800,
+                        "priceCurrency": "PLN",
+                        "name": "Nowa Huta/Padniewskiego| 32 m2 + balkon| 1 pok.",
+                        "url": "https://www.otodom.pl/pl/oferta/nowa-huta-padniewskiego-32-m2-balkon-1-pok-ID4m8k0",
+                        "itemOffered": {
+                            "@type": "Accommodation",
+                            "description": "Zobacz to 1 pokojowe mieszkanie na wynajem w miejscowości ul. bp. Filipa Padniewskiego, Kraków, za cenę 1 800 zł/miesiąc. To mieszkanie na wynajem  na 3 piętrze ma 32 m² powierzchni użytkowej i 32 m² powierzchni całkowitej. Właściciel jako najważniejsze zalety mieszkania wymienia: balkon, internet, teren zamknięty. Otodom 64380552",
+                            "address": {
+                                "@type": "PostalAddress",
+                                "addressCountry": "Polska",
+                                "addressLocality": "Kraków",
+                                "addressRegion": "małopolskie",
+                                "streetAddress": "ul. bp. Filipa Padniewskiego"
+                            },
+                            "numberOfRooms": 1,
+                            "floorSize": {
+                                "@type": "QuantitativeValue",
+                                "value": 32,
+                                "unitCode": "MTK"
+                            }
+                        }
+                    },
+                    {
+                        "@type": "Offer",
+                        "availability": "InStock",
+                        "image": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6InJ4eDl0dDhtcndlOTEtQVBMIiwidyI6W3siZm4iOiJlbnZmcXFlMWF5NGsxLUFQTCIsInMiOiIxNCIsInAiOiIxMCwtMTAiLCJhIjoiMCJ9XX0.SPi73tb6jYR56gTp-L7gy4SLtX_GPRB0NrCCBVJktTY/image;s=655x491;q=80",
+                        "price": 2100,
+                        "priceCurrency": "PLN",
+                        "name": "Kawalerka Krowodrza/Lea",
+                        "url": "https://www.otodom.pl/pl/oferta/kawalerka-krowodrza-lea-ID4m5YG",
+                        "itemOffered": {
+                            "@type": "Accommodation",
+                            "description": "Zobacz to 1 pokojowe mieszkanie na wynajem w miejscowości Kraków, Krowodrza, za cenę 2 100 zł/miesiąc. To mieszkanie na wynajem  na 2 piętrze ma 21 m² powierzchni użytkowej i 21 m² powierzchni całkowitej. Biuro nieruchomości AJPartnerzy w nieruchomościach  A.Tomaszewska J.Nielipińska s.c. jako najważniejsze zalety mieszkania wymienia: winda, tylko dla niepalących, oddzielna kuchnia. Otodom 64371542",
+                            "address": {
+                                "@type": "PostalAddress",
+                                "addressCountry": "Polska",
+                                "addressLocality": "Kraków",
+                                "addressRegion": "małopolskie",
+                                "streetAddress": "ul. Juliusza Lea"
+                            },
+                            "numberOfRooms": 1,
+                            "floorSize": {
+                                "@type": "QuantitativeValue",
+                                "value": 21,
+                                "unitCode": "MTK"
+                            }
+                        }
+                    },
+                    {
+                        "@type": "Offer",
+                        "availability": "InStock",
+                        "image": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6ImY5aXF1emFpbWNiYTMtQVBMIiwidyI6W3siZm4iOiJlbnZmcXFlMWF5NGsxLUFQTCIsInMiOiIxNCIsInAiOiIxMCwtMTAiLCJhIjoiMCJ9XX0.VQvdcjOQb9Z9hQfDZeL8F_FG5iFn1lyvYhM9P4Gmfzs/image;s=655x491;q=80",
+                        "price": 2580,
+                        "priceCurrency": "PLN",
+                        "name": "1 pokój mieszkanie w abonamencie | ul. Bagrowa 6",
+                        "url": "https://www.otodom.pl/pl/oferta/1-pokoj-mieszkanie-w-abonamencie-ul-bagrowa-6-ID4lsVh",
+                        "itemOffered": {
+                            "@type": "Accommodation",
+                            "description": "Zobacz to 1 pokojowe mieszkanie na wynajem w miejscowości Kraków, Podgórze, za cenę 2 580 zł/miesiąc. To mieszkanie na wynajem  na parter piętrze ma 26 m² powierzchni użytkowej i 26 m² powierzchni całkowitej. Biuro nieruchomości AFI PROJECT 7 Sp. z o.o. jako najważniejsze zalety mieszkania wymienia: balkon, garaż/miejsce parkingowe, winda. Otodom 64221477",
+                            "address": {
+                                "@type": "PostalAddress",
+                                "addressCountry": "Polska",
+                                "addressLocality": "Kraków",
+                                "addressRegion": "małopolskie",
+                                "streetAddress": "ul. Bagrowa"
+                            },
+                            "numberOfRooms": 1,
+                            "floorSize": {
+                                "@type": "QuantitativeValue",
+                                "value": 26,
+                                "unitCode": "MTK"
+                            }
+                        }
+                    },
+                    {
+                        "@type": "Offer",
+                        "availability": "InStock",
+                        "image": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6Im0waWwycmx5MG0yajItQVBMIiwidyI6W3siZm4iOiJlbnZmcXFlMWF5NGsxLUFQTCIsInMiOiIxNCIsInAiOiIxMCwtMTAiLCJhIjoiMCJ9XX0.iWyQSOUUC2IzxJDTx4doTFstbVQtumRI64DN5ags0EY/image;s=655x491;q=80",
+                        "price": 2000,
+                        "priceCurrency": "PLN",
+                        "name": "Elegancka i przytulna Kawalerka Ruczaj 30m2 skosy",
+                        "url": "https://www.otodom.pl/pl/oferta/elegancka-i-przytulna-kawalerka-ruczaj-30m2-skosy-ID4mh5m",
+                        "itemOffered": {
+                            "@type": "Accommodation",
+                            "description": "Zobacz to 1 pokojowe mieszkanie na wynajem w miejscowości Kraków, Dębniki, Ruczaj, za cenę 2 000 zł/miesiąc. To mieszkanie na wynajem  na 3 piętrze ma 21 m² powierzchni użytkowej i 21 m² powierzchni całkowitej. Właściciel jako najważniejsze zalety mieszkania wymienia: telewizja kablowa, teren zamknięty, domofon / wideofon. Otodom 64414240",
+                            "address": {
+                                "@type": "PostalAddress",
+                                "addressCountry": "Polska",
+                                "addressLocality": "Kraków",
+                                "addressRegion": "małopolskie",
+                                "streetAddress": "ul. Obozowa"
+                            },
+                            "numberOfRooms": 1,
+                            "floorSize": {
+                                "@type": "QuantitativeValue",
+                                "value": 21,
+                                "unitCode": "MTK"
+                            }
+                        }
+                    },
+                    {
+                        "@type": "Offer",
+                        "availability": "InStock",
+                        "image": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6ImxkdGVpaHdrd3BqajEtQVBMIiwidyI6W3siZm4iOiJlbnZmcXFlMWF5NGsxLUFQTCIsInMiOiIxNCIsInAiOiIxMCwtMTAiLCJhIjoiMCJ9XX0.1a83lo0S0_P2ddMF7md4m5q7iS0hRI3iM7GCFAKqjT0/image;s=655x491;q=80",
+                        "price": 1420,
+                        "priceCurrency": "PLN",
+                        "name": "SHED Living Kraków | Miejsce w Premium Twin Studio",
+                        "url": "https://www.otodom.pl/pl/oferta/shed-living-krakow-miejsce-w-premium-twin-studio-ID4l6iQ",
+                        "itemOffered": {
+                            "@type": "Accommodation",
+                            "description": "Zobacz to 1 pokojowe mieszkanie na wynajem w miejscowości Kraków, Zwierzyniec, za cenę 1 420 zł/miesiąc. To mieszkanie na wynajem  ma 24,85 m² powierzchni użytkowej i 24,85 m² powierzchni całkowitej. Biuro nieruchomości URBAN MICRO ESTATE POLAND Sp z o.o. jako najważniejsze zalety mieszkania wymienia: garaż/miejsce parkingowe, winda, internet. Otodom 64134464",
+                            "address": {
+                                "@type": "PostalAddress",
+                                "addressCountry": "Polska",
+                                "addressLocality": "Kraków",
+                                "addressRegion": "małopolskie",
+                                "streetAddress": "al. 3 Maja"
+                            },
+                            "numberOfRooms": 1,
+                            "floorSize": {
+                                "@type": "QuantitativeValue",
+                                "value": 24.85,
+                                "unitCode": "MTK"
+                            }
+                        }
+                    },
+                    {
+                        "@type": "Offer",
+                        "availability": "InStock",
+                        "image": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6InBhNW9xNndmdW0zMTMtQVBMIiwidyI6W3siZm4iOiJlbnZmcXFlMWF5NGsxLUFQTCIsInMiOiIxNCIsInAiOiIxMCwtMTAiLCJhIjoiMCJ9XX0.sB2tgjorQ_0jGutDqOAhaY_qMuHpsC-KV2XkeEnzaxo/image;s=655x491;q=80",
+                        "price": 2300,
+                        "priceCurrency": "PLN",
+                        "name": "Bociana, Kraków, jednopokojowe, nowoczesne,",
+                        "url": "https://www.otodom.pl/pl/oferta/bociana-krakow-jednopokojowe-nowoczesne-ID3gypK",
+                        "itemOffered": {
+                            "@type": "Accommodation",
+                            "description": "Zobacz to 1 pokojowe mieszkanie na wynajem w miejscowości Kraków, Prądnik Biały, za cenę 2 300 zł/miesiąc. To mieszkanie na wynajem  na 2 piętrze ma 37 m² powierzchni użytkowej i 37 m² powierzchni całkowitej. Właściciel jako najważniejsze zalety mieszkania wymienia: ogródek, winda, telewizja kablowa. Otodom 48274548",
+                            "address": {
+                                "@type": "PostalAddress",
+                                "addressCountry": "Polska",
+                                "addressLocality": "Kraków",
+                                "addressRegion": "małopolskie",
+                                "streetAddress": "ul. Bociana"
+                            },
+                            "numberOfRooms": 1,
+                            "floorSize": {
+                                "@type": "QuantitativeValue",
+                                "value": 37,
+                                "unitCode": "MTK"
+                            }
+                        }
+                    },
+                    {
+                        "@type": "Offer",
+                        "availability": "InStock",
+                        "image": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6ImNyMGp4d256M2trbjEtQVBMIiwidyI6W3siZm4iOiJlbnZmcXFlMWF5NGsxLUFQTCIsInMiOiIxNCIsInAiOiIxMCwtMTAiLCJhIjoiMCJ9XX0.fh5gpp9kjca0np0JtYpLNAD4oXwZ0SpgE9dSNi9DDpY/image;s=655x491;q=80",
+                        "price": 900,
+                        "priceCurrency": "PLN",
+                        "name": "Kawalerka, balkon, ul.Królowej Jadwigi",
+                        "url": "https://www.otodom.pl/pl/oferta/kawalerka-balkon-ul-krolowej-jadwigi-ID4moOS",
+                        "itemOffered": {
+                            "@type": "Accommodation",
+                            "description": "Zobacz to 1 pokojowe mieszkanie na wynajem w miejscowości ul. Królowej Jadwigi, Kraków, za cenę 900 zł/miesiąc. To mieszkanie na wynajem  ma 45 m² powierzchni użytkowej i 45 m² powierzchni całkowitej. Otodom 64443970",
+                            "address": {
+                                "@type": "PostalAddress",
+                                "addressCountry": "Polska",
+                                "addressLocality": "Kraków",
+                                "addressRegion": "małopolskie",
+                                "streetAddress": "ul. Królowej Jadwigi"
+                            },
+                            "numberOfRooms": 1,
+                            "floorSize": {
+                                "@type": "QuantitativeValue",
+                                "value": 45,
+                                "unitCode": "MTK"
+                            }
+                        }
+                    },
+                    {
+                        "@type": "Offer",
+                        "availability": "InStock",
+                        "image": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6ImEzZGJtdnBza29yNDItQVBMIiwidyI6W3siZm4iOiJlbnZmcXFlMWF5NGsxLUFQTCIsInMiOiIxNCIsInAiOiIxMCwtMTAiLCJhIjoiMCJ9XX0.nqiOUooWFyLMHfevp3lkkBhd2jaqvJvif_DHelomMcs/image;s=655x491;q=80",
+                        "price": 900,
+                        "priceCurrency": "PLN",
+                        "name": "Mieszkanie 1-pokojowe ul.Republiki Korczakowskiej",
+                        "url": "https://www.otodom.pl/pl/oferta/mieszkanie-1-pokojowe-ul-republiki-korczakowskiej-ID4moOP",
+                        "itemOffered": {
+                            "@type": "Accommodation",
+                            "description": "Zobacz to 1 pokojowe mieszkanie na wynajem w miejscowości ul. Republiki Korczakowskiej, Kraków, za cenę 900 zł/miesiąc. To mieszkanie na wynajem  ma 45 m² powierzchni użytkowej i 45 m² powierzchni całkowitej. Otodom 64443967",
+                            "address": {
+                                "@type": "PostalAddress",
+                                "addressCountry": "Polska",
+                                "addressLocality": "Kraków",
+                                "addressRegion": "małopolskie",
+                                "streetAddress": "ul. Republiki Korczakowskiej"
+                            },
+                            "numberOfRooms": 1,
+                            "floorSize": {
+                                "@type": "QuantitativeValue",
+                                "value": 45,
+                                "unitCode": "MTK"
+                            }
+                        }
+                    },
+                    {
+                        "@type": "Offer",
+                        "availability": "InStock",
+                        "image": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6ImRwa3ZhaG14dnl6dDEtQVBMIiwidyI6W3siZm4iOiJlbnZmcXFlMWF5NGsxLUFQTCIsInMiOiIxNCIsInAiOiIxMCwtMTAiLCJhIjoiMCJ9XX0.GD4Eti-NYaXhD4iGDEUTnzVHriBMWqoNLakWiUipfno/image;s=655x491;q=80",
+                        "price": 920,
+                        "priceCurrency": "PLN",
+                        "name": "Mieszkanie 1-pokojowe ul.Wegierska",
+                        "url": "https://www.otodom.pl/pl/oferta/mieszkanie-1-pokojowe-ul-wegierska-ID4moOO",
+                        "itemOffered": {
+                            "@type": "Accommodation",
+                            "description": "Zobacz to 1 pokojowe mieszkanie na wynajem w miejscowości ul. Węgierska, Kraków, za cenę 920 zł/miesiąc. To mieszkanie na wynajem  ma 45 m² powierzchni użytkowej i 45 m² powierzchni całkowitej. Otodom 64443966",
+                            "address": {
+                                "@type": "PostalAddress",
+                                "addressCountry": "Polska",
+                                "addressLocality": "Kraków",
+                                "addressRegion": "małopolskie",
+                                "streetAddress": "ul. Węgierska"
+                            },
+                            "numberOfRooms": 1,
+                            "floorSize": {
+                                "@type": "QuantitativeValue",
+                                "value": 45,
+                                "unitCode": "MTK"
+                            }
+                        }
+                    },
+                    {
+                        "@type": "Offer",
+                        "availability": "InStock",
+                        "image": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6IjEzOW45NjZqNGs0NS1BUEwiLCJ3IjpbeyJmbiI6ImVudmZxcWUxYXk0azEtQVBMIiwicyI6IjE0IiwicCI6IjEwLC0xMCIsImEiOiIwIn1dfQ.ai_Uq0AmfgBO3Ujl4e_xEbS92T7RGpiNWky5MOKRCjM/image;s=655x491;q=80",
+                        "price": 900,
+                        "priceCurrency": "PLN",
+                        "name": "Wynajme komfortowy Kawalerka ul.Franciszka Bohomol",
+                        "url": "https://www.otodom.pl/pl/oferta/wynajme-komfortowy-kawalerka-ul-franciszka-bohomol-ID4moOM",
+                        "itemOffered": {
+                            "@type": "Accommodation",
+                            "description": "Zobacz to 1 pokojowe mieszkanie na wynajem w miejscowości ul. Franciszka Bohomolca, Kraków, za cenę 900 zł/miesiąc. To mieszkanie na wynajem  ma 45 m² powierzchni użytkowej i 45 m² powierzchni całkowitej. Otodom 64443964",
+                            "address": {
+                                "@type": "PostalAddress",
+                                "addressCountry": "Polska",
+                                "addressLocality": "Kraków",
+                                "addressRegion": "małopolskie",
+                                "streetAddress": "ul. Franciszka Bohomolca"
+                            },
+                            "numberOfRooms": 1,
+                            "floorSize": {
+                                "@type": "QuantitativeValue",
+                                "value": 45,
+                                "unitCode": "MTK"
+                            }
+                        }
+                    },
+                    {
+                        "@type": "Offer",
+                        "availability": "InStock",
+                        "image": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6ImR5ZHdrNXdmMGJiYTMtQVBMIiwidyI6W3siZm4iOiJlbnZmcXFlMWF5NGsxLUFQTCIsInMiOiIxNCIsInAiOiIxMCwtMTAiLCJhIjoiMCJ9XX0.GOkS9UfNLFj6AIp6xDmHDN9Oh-GSLy_ejbUfEPycyOE/image;s=655x491;q=80",
+                        "price": 940,
+                        "priceCurrency": "PLN",
+                        "name": "Wynajme komfortowy Kawalerka ul.Juliusza Lea",
+                        "url": "https://www.otodom.pl/pl/oferta/wynajme-komfortowy-kawalerka-ul-juliusza-lea-ID4moOK",
+                        "itemOffered": {
+                            "@type": "Accommodation",
+                            "description": "Zobacz to 1 pokojowe mieszkanie na wynajem w miejscowości ul. Juliusza Lea, Kraków, za cenę 940 zł/miesiąc. To mieszkanie na wynajem  ma 45 m² powierzchni użytkowej i 45 m² powierzchni całkowitej. Otodom 64443962",
+                            "address": {
+                                "@type": "PostalAddress",
+                                "addressCountry": "Polska",
+                                "addressLocality": "Kraków",
+                                "addressRegion": "małopolskie",
+                                "streetAddress": "ul. Juliusza Lea"
+                            },
+                            "numberOfRooms": 1,
+                            "floorSize": {
+                                "@type": "QuantitativeValue",
+                                "value": 45,
+                                "unitCode": "MTK"
+                            }
+                        }
+                    },
+                    {
+                        "@type": "Offer",
+                        "availability": "InStock",
+                        "image": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6InZiY3Z4a2licndmOC1BUEwiLCJ3IjpbeyJmbiI6ImVudmZxcWUxYXk0azEtQVBMIiwicyI6IjE0IiwicCI6IjEwLC0xMCIsImEiOiIwIn1dfQ.9ZAcQZr2vlqNWdVR69x-9751ZOjOThImO63kGv3tRr4/image;s=655x491;q=80",
+                        "price": 920,
+                        "priceCurrency": "PLN",
+                        "name": "Kawalerka, balkon, ul.Stanislawy Wysockiej",
+                        "url": "https://www.otodom.pl/pl/oferta/kawalerka-balkon-ul-stanislawy-wysockiej-ID4moOG",
+                        "itemOffered": {
+                            "@type": "Accommodation",
+                            "description": "Zobacz to 1 pokojowe mieszkanie na wynajem w miejscowości ul. Stanisławy Wysockiej, Kraków, za cenę 920 zł/miesiąc. To mieszkanie na wynajem  ma 45 m² powierzchni użytkowej i 45 m² powierzchni całkowitej. Otodom 64443958",
+                            "address": {
+                                "@type": "PostalAddress",
+                                "addressCountry": "Polska",
+                                "addressLocality": "Kraków",
+                                "addressRegion": "małopolskie",
+                                "streetAddress": "ul. Stanisławy Wysockiej"
+                            },
+                            "numberOfRooms": 1,
+                            "floorSize": {
+                                "@type": "QuantitativeValue",
+                                "value": 45,
+                                "unitCode": "MTK"
+                            }
+                        }
+                    },
+                    {
+                        "@type": "Offer",
+                        "availability": "InStock",
+                        "image": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6IjBtcGpvdDZwYmZycTMtQVBMIiwidyI6W3siZm4iOiJlbnZmcXFlMWF5NGsxLUFQTCIsInMiOiIxNCIsInAiOiIxMCwtMTAiLCJhIjoiMCJ9XX0.MWi4OlLxuofvxrFFXrcaDp0UgRYs69WO9G9rFzk8TPc/image;s=655x491;q=80",
+                        "price": 940,
+                        "priceCurrency": "PLN",
+                        "name": "Kawalerka, balkon, ul.Mariana Markowskiego",
+                        "url": "https://www.otodom.pl/pl/oferta/kawalerka-balkon-ul-mariana-markowskiego-ID4moOF",
+                        "itemOffered": {
+                            "@type": "Accommodation",
+                            "description": "Zobacz to 1 pokojowe mieszkanie na wynajem w miejscowości ul. Mariana Markowskiego, Kraków, za cenę 940 zł/miesiąc. To mieszkanie na wynajem  ma 43 m² powierzchni użytkowej i 43 m² powierzchni całkowitej. Otodom 64443957",
+                            "address": {
+                                "@type": "PostalAddress",
+                                "addressCountry": "Polska",
+                                "addressLocality": "Kraków",
+                                "addressRegion": "małopolskie",
+                                "streetAddress": "ul. Mariana Markowskiego"
+                            },
+                            "numberOfRooms": 1,
+                            "floorSize": {
+                                "@type": "QuantitativeValue",
+                                "value": 43,
+                                "unitCode": "MTK"
+                            }
+                        }
+                    },
+                    {
+                        "@type": "Offer",
+                        "availability": "InStock",
+                        "image": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6Imh2ZXR1aTY2OW9vYjMtQVBMIiwidyI6W3siZm4iOiJlbnZmcXFlMWF5NGsxLUFQTCIsInMiOiIxNCIsInAiOiIxMCwtMTAiLCJhIjoiMCJ9XX0.8oGF0mYLXmJPG7DS69f8gkqbQ8djCB4pKmBNw0Lq5VA/image;s=655x491;q=80",
+                        "price": 920,
+                        "priceCurrency": "PLN",
+                        "name": "Wygodna kawalerka ul. Henryka Siemiradzkiego",
+                        "url": "https://www.otodom.pl/pl/oferta/wygodna-kawalerka-ul-henryka-siemiradzkiego-ID4moOD",
+                        "itemOffered": {
+                            "@type": "Accommodation",
+                            "description": "Zobacz to 1 pokojowe mieszkanie na wynajem w miejscowości ul. Henryka Siemiradzkiego, Kraków, za cenę 920 zł/miesiąc. To mieszkanie na wynajem  ma 45 m² powierzchni użytkowej i 45 m² powierzchni całkowitej. Otodom 64443955",
+                            "address": {
+                                "@type": "PostalAddress",
+                                "addressCountry": "Polska",
+                                "addressLocality": "Kraków",
+                                "addressRegion": "małopolskie",
+                                "streetAddress": "ul. Henryka Siemiradzkiego"
+                            },
+                            "numberOfRooms": 1,
+                            "floorSize": {
+                                "@type": "QuantitativeValue",
+                                "value": 45,
+                                "unitCode": "MTK"
+                            }
+                        }
+                    },
+                    {
+                        "@type": "Offer",
+                        "availability": "InStock",
+                        "image": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6Ind0ZHEzNDl2Njl5OC1BUEwiLCJ3IjpbeyJmbiI6ImVudmZxcWUxYXk0azEtQVBMIiwicyI6IjE0IiwicCI6IjEwLC0xMCIsImEiOiIwIn1dfQ.rKa4Rw5F3wW1dJvvXnqvbBNwsrgKBZyh1GAPfzMoyrg/image;s=655x491;q=80",
+                        "price": 930,
+                        "priceCurrency": "PLN",
+                        "name": "Wygodna kawalerka ul. Przewóz",
+                        "url": "https://www.otodom.pl/pl/oferta/wygodna-kawalerka-ul-przewoz-ID4moOC",
+                        "itemOffered": {
+                            "@type": "Accommodation",
+                            "description": "Zobacz to 1 pokojowe mieszkanie na wynajem w miejscowości ul. Przewóz, Kraków, za cenę 930 zł/miesiąc. To mieszkanie na wynajem  ma 45 m² powierzchni użytkowej i 45 m² powierzchni całkowitej. Otodom 64443954",
+                            "address": {
+                                "@type": "PostalAddress",
+                                "addressCountry": "Polska",
+                                "addressLocality": "Kraków",
+                                "addressRegion": "małopolskie",
+                                "streetAddress": "ul. Przewóz"
+                            },
+                            "numberOfRooms": 1,
+                            "floorSize": {
+                                "@type": "QuantitativeValue",
+                                "value": 45,
+                                "unitCode": "MTK"
+                            }
+                        }
+                    },
+                    {
+                        "@type": "Offer",
+                        "availability": "InStock",
+                        "image": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6Imtqb2hqc2tjOTU1djEtQVBMIiwidyI6W3siZm4iOiJlbnZmcXFlMWF5NGsxLUFQTCIsInMiOiIxNCIsInAiOiIxMCwtMTAiLCJhIjoiMCJ9XX0.xXdiyXSiaXW0r4iL9W1ESHbuDJddFqkxMXtjj3L5nnQ/image;s=655x491;q=80",
+                        "price": 950,
+                        "priceCurrency": "PLN",
+                        "name": "Kawalerka, balkon, ul. Ludwinowska",
+                        "url": "https://www.otodom.pl/pl/oferta/kawalerka-balkon-ul-ludwinowska-ID4moKQ",
+                        "itemOffered": {
+                            "@type": "Accommodation",
+                            "description": "Zobacz to 1 pokojowe mieszkanie na wynajem w miejscowości ul. Ludwinowska, Kraków, za cenę 950 zł/miesiąc. To mieszkanie na wynajem  ma 45 m² powierzchni użytkowej i 45 m² powierzchni całkowitej. Otodom 64443720",
+                            "address": {
+                                "@type": "PostalAddress",
+                                "addressCountry": "Polska",
+                                "addressLocality": "Kraków",
+                                "addressRegion": "małopolskie",
+                                "streetAddress": "ul. Ludwinowska"
+                            },
+                            "numberOfRooms": 1,
+                            "floorSize": {
+                                "@type": "QuantitativeValue",
+                                "value": 45,
+                                "unitCode": "MTK"
+                            }
+                        }
+                    },
+                    {
+                        "@type": "Offer",
+                        "availability": "InStock",
+                        "image": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6ImUxeWhzZDIwcHgyZC1BUEwiLCJ3IjpbeyJmbiI6ImVudmZxcWUxYXk0azEtQVBMIiwicyI6IjE0IiwicCI6IjEwLC0xMCIsImEiOiIwIn1dfQ.4HmqnZXQ0MDxZB0gPmsukxwLWj2eGJO5Ge6LOOgaHIw/image;s=655x491;q=80",
+                        "price": 950,
+                        "priceCurrency": "PLN",
+                        "name": "Wynajme komfortowy Kawalerka ul.Rzeznicza",
+                        "url": "https://www.otodom.pl/pl/oferta/wynajme-komfortowy-kawalerka-ul-rzeznicza-ID4moKO",
+                        "itemOffered": {
+                            "@type": "Accommodation",
+                            "description": "Zobacz to 1 pokojowe mieszkanie na wynajem w miejscowości ul. Rzeźnicza, Kraków, za cenę 950 zł/miesiąc. To mieszkanie na wynajem  ma 45 m² powierzchni użytkowej i 45 m² powierzchni całkowitej. Otodom 64443718",
+                            "address": {
+                                "@type": "PostalAddress",
+                                "addressCountry": "Polska",
+                                "addressLocality": "Kraków",
+                                "addressRegion": "małopolskie",
+                                "streetAddress": "ul. Rzeźnicza"
+                            },
+                            "numberOfRooms": 1,
+                            "floorSize": {
+                                "@type": "QuantitativeValue",
+                                "value": 45,
+                                "unitCode": "MTK"
+                            }
+                        }
+                    },
+                    {
+                        "@type": "Offer",
+                        "availability": "InStock",
+                        "image": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6IjQyYXp4c2U1MzJ2bzEtQVBMIiwidyI6W3siZm4iOiJlbnZmcXFlMWF5NGsxLUFQTCIsInMiOiIxNCIsInAiOiIxMCwtMTAiLCJhIjoiMCJ9XX0.v3tN_y1ad0pbiVKOLnHVxi4BKygFMqFD7g9TPdXijh0/image;s=655x491;q=80",
+                        "price": 1000,
+                        "priceCurrency": "PLN",
+                        "name": "Mieszkanie 1-pokojowe ul.Trynitarska",
+                        "url": "https://www.otodom.pl/pl/oferta/mieszkanie-1-pokojowe-ul-trynitarska-ID4moKN",
+                        "itemOffered": {
+                            "@type": "Accommodation",
+                            "description": "Zobacz to 1 pokojowe mieszkanie na wynajem w miejscowości ul. Trynitarska, Kraków, za cenę 1 000 zł/miesiąc. To mieszkanie na wynajem  ma 45 m² powierzchni użytkowej i 45 m² powierzchni całkowitej. Otodom 64443717",
+                            "address": {
+                                "@type": "PostalAddress",
+                                "addressCountry": "Polska",
+                                "addressLocality": "Kraków",
+                                "addressRegion": "małopolskie",
+                                "streetAddress": "ul. Trynitarska"
+                            },
+                            "numberOfRooms": 1,
+                            "floorSize": {
+                                "@type": "QuantitativeValue",
+                                "value": 45,
+                                "unitCode": "MTK"
+                            }
+                        }
+                    },
+                    {
+                        "@type": "Offer",
+                        "availability": "InStock",
+                        "image": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6Ind0dWJxeWloczNnODEtQVBMIiwidyI6W3siZm4iOiJlbnZmcXFlMWF5NGsxLUFQTCIsInMiOiIxNCIsInAiOiIxMCwtMTAiLCJhIjoiMCJ9XX0.Cz1Cmjdqro8eYbh18moIP1zGRcqx276HeVyDehqQVx4/image;s=655x491;q=80",
+                        "price": 2600,
+                        "priceCurrency": "PLN",
+                        "name": "Przestronne i jasne bl. centrum (Płaszów), parking",
+                        "url": "https://www.otodom.pl/pl/oferta/przestronne-i-jasne-bl-centrum-plaszow-parking-ID4moKl",
+                        "itemOffered": {
+                            "@type": "Accommodation",
+                            "description": "Zobacz to 1 pokojowe mieszkanie na wynajem w miejscowości ul. Koszykarska, Kraków, za cenę 2 600 zł/miesiąc. To mieszkanie na wynajem  na 4 piętrze ma 37 m² powierzchni użytkowej i 37 m² powierzchni całkowitej. Biuro nieruchomości TL Nieruchomości jako najważniejsze zalety mieszkania wymienia: garaż/miejsce parkingowe, winda, telewizja kablowa. Otodom 64443689",
+                            "address": {
+                                "@type": "PostalAddress",
+                                "addressCountry": "Polska",
+                                "addressLocality": "Kraków",
+                                "addressRegion": "małopolskie",
+                                "streetAddress": "ul. Koszykarska"
+                            },
+                            "numberOfRooms": 1,
+                            "floorSize": {
+                                "@type": "QuantitativeValue",
+                                "value": 37,
+                                "unitCode": "MTK"
+                            }
+                        }
+                    },
+                    {
+                        "@type": "Offer",
+                        "availability": "InStock",
+                        "image": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6ImZsM2s2aW1mcWV4MzMtQVBMIiwidyI6W3siZm4iOiJlbnZmcXFlMWF5NGsxLUFQTCIsInMiOiIxNCIsInAiOiIxMCwtMTAiLCJhIjoiMCJ9XX0.wQ8itny4mQevq2YAzTDNBL0s3qRYEfTuzwguiAQ0MFc/image;s=655x491;q=80",
+                        "price": 2400,
+                        "priceCurrency": "PLN",
+                        "name": "Nowa kawalerka z balkonem | Dostępna od zaraz",
+                        "url": "https://www.otodom.pl/pl/oferta/nowa-kawalerka-z-balkonem-dostepna-od-zaraz-ID4moK6",
+                        "itemOffered": {
+                            "@type": "Accommodation",
+                            "description": "Zobacz to 1 pokojowe mieszkanie na wynajem w miejscowości Kraków, Bieżanów-Prokocim, Złocień, za cenę 2 400 zł/miesiąc. To mieszkanie na wynajem  na 4 piętrze ma 29 m² powierzchni użytkowej i 29 m² powierzchni całkowitej. Biuro nieruchomości Nowe Miejsce Nieruchomości jako najważniejsze zalety mieszkania wymienia: balkon, garaż/miejsce parkingowe, winda. Otodom 64443674",
+                            "address": {
+                                "@type": "PostalAddress",
+                                "addressCountry": "Polska",
+                                "addressLocality": "Kraków",
+                                "addressRegion": "małopolskie",
+                                "streetAddress": "ul. Mariana Domagały"
+                            },
+                            "numberOfRooms": 1,
+                            "floorSize": {
+                                "@type": "QuantitativeValue",
+                                "value": 29,
+                                "unitCode": "MTK"
+                            }
+                        }
+                    },
+                    {
+                        "@type": "Offer",
+                        "availability": "InStock",
+                        "image": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6InBud21wYXQ3azE4NzMtQVBMIiwidyI6W3siZm4iOiJlbnZmcXFlMWF5NGsxLUFQTCIsInMiOiIxNCIsInAiOiIxMCwtMTAiLCJhIjoiMCJ9XX0.RPpWm8twUBGo871bCsSuLboOAVtWcAB_G3GN4b44j8E/image;s=655x491;q=80",
+                        "price": 2000,
+                        "priceCurrency": "PLN",
+                        "name": "Przytulna kawalerka w centrum miasta!Krótki najem!",
+                        "url": "https://www.otodom.pl/pl/oferta/przytulna-kawalerka-w-centrum-miasta-krotki-najem-ID4moK4",
+                        "itemOffered": {
+                            "@type": "Accommodation",
+                            "description": "Zobacz to 1 pokojowe mieszkanie na wynajem w miejscowości Kraków, Śródmieście, za cenę 2 000 zł/miesiąc. To mieszkanie na wynajem  na 2 piętrze ma 20 m² powierzchni użytkowej i 20 m² powierzchni całkowitej. Biuro nieruchomości MBDG Sp. z o.o. jako najważniejsze zalety mieszkania wymienia: balkon, telewizja kablowa, internet. Otodom 64443672",
+                            "address": {
+                                "@type": "PostalAddress",
+                                "addressCountry": "Polska",
+                                "addressLocality": "Kraków",
+                                "addressRegion": "małopolskie"
+                            },
+                            "numberOfRooms": 1,
+                            "floorSize": {
+                                "@type": "QuantitativeValue",
+                                "value": 20,
+                                "unitCode": "MTK"
+                            }
+                        }
+                    }
+                ]
+            }
+        }
+    ]
+}
+
